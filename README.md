@@ -1,7 +1,7 @@
 # 서현기 포트폴리오
 
 ## TEAM 프로젝트
-[TRAVEL with] (https://github.com/HYUNKISEO/team_derror)
+[TRAVEL with](https://github.com/HYUNKISEO/team_derror)
 
 ## 개요
 TRAVEL with는 해외 공연과 관광지의 일정을 사전에 검색하고, 동일한 사이트에서 항공편을 확인하여 일정을 쉽게 관리할 수 있도록 제공됩니다. 사용자들은 여행 계획 수립과 관련된 모든 정보를 한 곳에서 효율적으로 관리할 수 있게 됩니다. 또한 여행커뮤니티를 통해 경험 공유와 정보 교환을 도모하며, 사용자 맞춤 여행지 추천과 함께 일정 검색과 항공편 확인을 통해 개인화된 여행 일정을 손쉽게 관리할 수 있습니다.
