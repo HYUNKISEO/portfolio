@@ -1,6 +1,9 @@
 # 서현기 포트폴리오
 
-## TEAM 프로젝트
+## 경력 및 활동사항
+1. 코리아 IT아카데미 학원 핀테크과정 수료 (2023.09.07 ~ 2024.03.17)
+
+## 팀 프로젝트
 [TRAVEL with](https://github.com/HYUNKISEO/team_derror)
 
 ## 개요
