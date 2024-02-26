@@ -15,4 +15,6 @@ TRAVEL with는 해외 공연과 관광지의 일정을 사전에 검색하고, �
 <hr>
 
 ## 2번 프로젝트
-코딩 문제 + 커뮤니티 사이트 ...작업중
+2인 프로젝트
+[ALL_ROUND - BackEnd](https://github.com/HYUNKISEO/AllRound)
+[ALL_ROUND - FrontEnd](https://github.com/HYUNKISEO/AllRound-react)
