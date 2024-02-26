@@ -4,8 +4,7 @@
 1. 코리아 IT아카데미 학원 핀테크과정 수료 (2023.09.07 ~ 2024.03.17)
 
 ## 1번 프로젝트
-팀 프로젝트
-
+팀 프로젝트<br/>
 [TRAVEL with](https://github.com/HYUNKISEO/team_derror)
 
 ### 개요
@@ -16,8 +15,6 @@ TRAVEL with는 해외 공연과 관광지의 일정을 사전에 검색하고, �
 <hr>
 
 ## 2번 프로젝트
-2인 프로젝트
-
-[ALL_ROUND - BackEnd](https://github.com/HYUNKISEO/AllRound)
-
+2인 프로젝트<br/>
+[ALL_ROUND - BackEnd](https://github.com/HYUNKISEO/AllRound)<br/>
 [ALL_ROUND - FrontEnd](https://github.com/HYUNKISEO/AllRound-react)
