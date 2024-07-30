@@ -34,7 +34,7 @@ TRAVEL with는 해외 공연과 관광지의 일정을 사전에 검색하고, �
 
 ## 3번 프로젝트
 개인 프로젝트<br/>
-[개발 + 배포 프로젝트](https://vercel.com/hyunkiseos-projects/nestjs-movies)
+[개발 + 배포 프로젝트](https://nestjs-movies-tau.vercel.app/)
 
 ### 개요
 Next.js 기반으로 개발한 공부내용을 바탕으로 공부했던 내용입니다. (출처: 노마드코더 next.js 과정)
